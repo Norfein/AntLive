@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1328815772 source:d:\dropbox folder\dropbox\cpp\antlive\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+
